@@ -11,3 +11,7 @@ codex.func().excecute();
 
 ex.roges=33
 null.retune
+requeires.('.code.txt);
+request.all(excecute)
+if(firstExcecute === null) then true;
+requires.excecute.all();
